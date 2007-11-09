@@ -4,7 +4,7 @@ use strict;
 use Rose::HTMLx::Form::Field::RadioButtonBoolean;
 use base qw( Rose::HTML::Form::Field::RadioButtonGroup );
 
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 =head1 NAME
 

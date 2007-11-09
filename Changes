@@ -3,3 +3,7 @@ Revision history for Rose-HTMLx-Form-Field-Boolean
 0.01    9 Nov 2007
         First version, released on an unsuspecting world.
 
+0.02    9 Nov 2007
+        * added RHTMLO to Makefile.PL req list
+
+
