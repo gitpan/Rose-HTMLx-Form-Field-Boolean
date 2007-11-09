@@ -1,0 +1,14 @@
+--- #YAML:1.0
+name:                Rose-HTMLx-Form-Field-Boolean
+version:             0.01
+abstract:            extend RHTMLO RadioButtonGroup
+license:             ~
+generated_by:        ExtUtils::MakeMaker version 6.36
+distribution_type:   module
+requires:     
+    Test::More:                    0
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.2.html
+    version: 1.2
+author:
+    - Peter Karman <karman@cpan.org>
