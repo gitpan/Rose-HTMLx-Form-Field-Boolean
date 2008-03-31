@@ -10,8 +10,8 @@ WriteMakefile(
     PL_FILES            => {},
     PREREQ_PM => {
         'Test::More' => 0,
-        'Rose::HTML::Objects' => 0,
-
+    #    'Rose::HTML::Objects' => 0,
+        'Rose::HTML::Form::Field::RadioButton' => 0,
     },
     dist                => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean               => { FILES => 'Rose-HTMLx-Form-Field-Boolean-*' },

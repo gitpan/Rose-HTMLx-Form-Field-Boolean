@@ -2,7 +2,7 @@ package Rose::HTMLx::Form::Field::RadioButtonBoolean;
 
 use strict;
 use base qw( Rose::HTML::Form::Field::RadioButton );
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 sub init {
     my $self = shift;
